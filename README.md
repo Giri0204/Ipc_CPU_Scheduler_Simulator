@@ -27,7 +27,7 @@ A GUI-based CPU scheduling simulator built using Python and Tkinter. This educat
 
 - **Language:** Python 3
 - **GUI:** Tkinter
-- **Visualization:** Matplotlib (for Gantt chart, if used)
+- **Visualization:** Matplotlib 
 
 ## 🚀 Getting Started
 
